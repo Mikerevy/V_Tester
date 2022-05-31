@@ -16,6 +16,7 @@ Requirements:
 •	File creation/copying/removal operations should be logged to a file and to the console output;
 •	Folder paths, synchronization interval and log file path should be provided using the command line arguments.
  
+ 
 Problem 3
 Implement a client-server application that follows the next algorithm:
 1.	Server keeps ports 8000 and 8001 open.

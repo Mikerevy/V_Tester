@@ -26,4 +26,4 @@ Implement a client-server application that follows the next algorithm:
 5.	If client code does not match client identifier, server returns an error to the client.
 6.	If client code is correct, server writes the provided text message to a log file.
 Server should be able to simultaneously work with at least 50 clients.
-It is acceptable (although not required) to use a high-level protocol (e. g. HTTP) for communication between client and server.
+It is acceptable (although not required) to use a high-level protocol (e. g. HTTP) for communication between client and server
